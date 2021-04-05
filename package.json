@@ -1,5 +1,5 @@
 {
-  "name": "nconf",
+  "name": "nconf-lc3",
   "description": "Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.",
   "version": "0.9.1",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
